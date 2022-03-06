@@ -3,7 +3,7 @@ import tw from "twrnc";
 import { Icon } from "react-native-elements";
 
 import Map from "components/Map";
-import MapScreenStackNavigator from "navigators/stack/map-stack";
+import MapScreenStackNavigator from "navigators/map-stack";
 
 const MapScreen = () => {
   return (

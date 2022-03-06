@@ -5,7 +5,7 @@ import { SafeAreaProvider } from "react-native-safe-area-context";
 import { NavigationContainer } from "@react-navigation/native";
 
 import store from "redux-store/store";
-import RootStackNavigator from "navigators/stack";
+import RootStackNavigator from "navigators";
 
 const App = () => {
   return (
